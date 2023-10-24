@@ -1,0 +1,98 @@
+{
+    "ENE": {
+        "Promedio": 625.075,
+        "Minimo": 14,
+        "Maximo": 2940,
+        "Total": 25003,
+        "DesviacionEstandar": 804.9904778163528,
+        "Mediana": 298.0
+    },
+    "FEB": {
+        "Promedio": 642.95,
+        "Minimo": 13,
+        "Maximo": 2990,
+        "Total": 25718,
+        "DesviacionEstandar": 806.7588533756541,
+        "Mediana": 346.5
+    },
+    "MAR": {
+        "Promedio": 644.825,
+        "Minimo": 10,
+        "Maximo": 2909,
+        "Total": 25793,
+        "DesviacionEstandar": 823.353140745209,
+        "Mediana": 300.0
+    },
+    "ABR": {
+        "Promedio": 635.25,
+        "Minimo": 12,
+        "Maximo": 2953,
+        "Total": 25410,
+        "DesviacionEstandar": 783.4847078916091,
+        "Mediana": 396.0
+    },
+    "MAY": {
+        "Promedio": 617.9,
+        "Minimo": 13,
+        "Maximo": 2913,
+        "Total": 24716,
+        "DesviacionEstandar": 796.0747703576592,
+        "Mediana": 343.5
+    },
+    "JUN": {
+        "Promedio": 602.1,
+        "Minimo": 15,
+        "Maximo": 2798,
+        "Total": 24084,
+        "DesviacionEstandar": 792.823618467563,
+        "Mediana": 290.5
+    },
+    "JUL": {
+        "Promedio": 620.3,
+        "Minimo": 20,
+        "Maximo": 2952,
+        "Total": 24812,
+        "DesviacionEstandar": 835.0350052542707,
+        "Mediana": 275.5
+    },
+    "AGO": {
+        "Promedio": 632.1,
+        "Minimo": 16,
+        "Maximo": 2878,
+        "Total": 25284,
+        "DesviacionEstandar": 799.020957171963,
+        "Mediana": 327.5
+    },
+    "SEP": {
+        "Promedio": 659.2,
+        "Minimo": 14,
+        "Maximo": 2993,
+        "Total": 26368,
+        "DesviacionEstandar": 831.9158971915372,
+        "Mediana": 383.5
+    },
+    "OCT": {
+        "Promedio": 670.525,
+        "Minimo": 12,
+        "Maximo": 2963,
+        "Total": 26821,
+        "DesviacionEstandar": 823.2462568241656,
+        "Mediana": 375.0
+    },
+    "NOV": {
+        "Promedio": 689.35,
+        "Minimo": 18,
+        "Maximo": 2939,
+        "Total": 27574,
+        "DesviacionEstandar": 816.1615511037015,
+        "Mediana": 402.5
+    },
+    "DIC": {
+        "Promedio": 623.75,
+        "Minimo": 11,
+        "Maximo": 2986,
+        "Total": 24950,
+        "DesviacionEstandar": 798.2344815278277,
+        "Mediana": 296.5
+    }
+}

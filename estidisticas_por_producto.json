@@ -1,0 +1,58 @@
+{
+    "Gaseosas": {
+        "Promedio": 540.4166666666666,
+        "Minimo": 55,
+        "Maximo": 980,
+        "Suma": 25940,
+        "DesviacionEstandar": 239.27615089868212,
+        "Mediana": 593.0
+    },
+    "Crispetas": {
+        "Promedio": 1185.6458333333333,
+        "Minimo": 855,
+        "Maximo": 1500,
+        "Suma": 56911,
+        "DesviacionEstandar": 187.77008210212531,
+        "Mediana": 1199.0
+    },
+    "HotDog": {
+        "Promedio": 578.5,
+        "Minimo": 63,
+        "Maximo": 992,
+        "Suma": 27768,
+        "DesviacionEstandar": 301.3632221533787,
+        "Mediana": 591.0
+    },
+    "Chocolatina": {
+        "Promedio": 555.4791666666666,
+        "Minimo": 60,
+        "Maximo": 986,
+        "Suma": 26663,
+        "DesviacionEstandar": 292.48012678808146,
+        "Mediana": 578.5
+    },
+    "Nachos": {
+        "Promedio": 571.1041666666666,
+        "Minimo": 72,
+        "Maximo": 963,
+        "Suma": 27413,
+        "DesviacionEstandar": 266.8469629756081,
+        "Mediana": 598.0
+    },
+    "Papas": {
+        "Promedio": 500.0416666666667,
+        "Minimo": 78,
+        "Maximo": 993,
+        "Suma": 24002,
+        "DesviacionEstandar": 279.45266134097835,
+        "Mediana": 456.0
+    },
+    "Agua": {
+        "Promedio": 502.6875,
+        "Minimo": 112,
+        "Maximo": 995,
+        "Suma": 24129,
+        "DesviacionEstandar": 262.2389301961413,
+        "Mediana": 471.0
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "sexos": [
+        "Femenino",
+        "Masculino",
+        "Indeterminado"
+    ],
+    "meses": [
+        "Enero",
+        "Febrero",
+        "Marzo",
+        "Abril",
+        "Mayo",
+        "Junio",
+        "Julio",
+        "Agosto",
+        "Septiembre",
+        "Octubre",
+        "Noviembre",
+        "Diciembre"
+    ],
+    "nacimientos": {
+        "Femenino": {
+            "2020": {
+                "Enero": 42436,
+                "Febrero": 37735,
+                "Marzo": 46682,
+                "Abril": 45490,
+                "Mayo": 51741,
+                "Junio": 45403,
+                "Julio": 50003,
+                "Agosto": 46296,
+                "Septiembre": 49927,
+                "Octubre": 54018,
+                "Noviembre": 54043,
+                "Diciembre": 51147
+            },
+            "2021": {
+                "Enero": 54578,
+                "Febrero": 38051,
+                "Marzo": 56287,
+                "Abril": 46448,
+                "Mayo": 50433,
+                "Junio": 54984,
+                "Julio": 43861,
+                "Agosto": 40335,
+                "Septiembre": 40425,
+                "Octubre": 53075,
+                "Noviembre": 55183,
+                "Diciembre": 39564
+            },
+            "2022": {
+                "Enero": 54441,
+                "Febrero": 38450,
+                "Marzo": 48654,
+                "Abril": 54063,
+                "Mayo": 42725,
+                "Junio": 36482,
+                "Julio": 44061,
+                "Agosto": 36688,
+                "Septiembre": 47051,
+                "Octubre": 55924,
+                "Noviembre": 39035,
+                "Diciembre": 55235
+            }
+        },
+        "Masculino": {
+            "2020": {
+                "Enero": 40338,
+                "Febrero": 45511,
+                "Marzo": 42827,
+                "Abril": 53504,
+                "Mayo": 54666,
+                "Junio": 38621,
+                "Julio": 51463,
+                "Agosto": 47628,
+                "Septiembre": 56721,
+                "Octubre": 46006,
+                "Noviembre": 49055,
+                "Diciembre": 43605
+            },
+            "2021": {
+                "Enero": 47319,
+                "Febrero": 40108,
+                "Marzo": 50711,
+                "Abril": 50864,
+                "Mayo": 43753,
+                "Junio": 45715,
+                "Julio": 38609,
+                "Agosto": 48832,
+                "Septiembre": 56467,
+                "Octubre": 48112,
+                "Noviembre": 52962,
+                "Diciembre": 50818
+            },
+            "2022": {
+                "Enero": 51882,
+                "Febrero": 56611,
+                "Marzo": 49331,
+                "Abril": 51952,
+                "Mayo": 56498,
+                "Junio": 50632,
+                "Julio": 44646,
+                "Agosto": 53324,
+                "Septiembre": 45337,
+                "Octubre": 41712,
+                "Noviembre": 44813,
+                "Diciembre": 42132
+            }
+        },
+        "Indeterminado": {
+            "2020": {
+                "Enero": 7,
+                "Febrero": 10,
+                "Marzo": 7,
+                "Abril": 5,
+                "Mayo": 9,
+                "Junio": 9,
+                "Julio": 5,
+                "Agosto": 5,
+                "Septiembre": 6,
+                "Octubre": 9,
+                "Noviembre": 9,
+                "Diciembre": 7
+            },
+            "2021": {
+                "Enero": 7,
+                "Febrero": 9,
+                "Marzo": 7,
+                "Abril": 7,
+                "Mayo": 6,
+                "Junio": 7,
+                "Julio": 9,
+                "Agosto": 6,
+                "Septiembre": 9,
+                "Octubre": 7,
+                "Noviembre": 8,
+                "Diciembre": 6
+            },
+            "2022": {
+                "Enero": 7,
+                "Febrero": 9,
+                "Marzo": 9,
+                "Abril": 10,
+                "Mayo": 9,
+                "Junio": 6,
+                "Julio": 7,
+                "Agosto": 6,
+                "Septiembre": 7,
+                "Octubre": 8,
+                "Noviembre": 10,
+                "Diciembre": 6
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Femenino": {
+        "Promedio": 47248.72222222222,
+        "Minimo": 36482,
+        "Maximo": 56287,
+        "Total": 1700954,
+        "DesviacionEstandar": 6364.214412596906,
+        "Mediana": 46866.5
+    },
+    "Masculino": {
+        "Promedio": 48141.25,
+        "Minimo": 38609,
+        "Maximo": 56721,
+        "Total": 1733085,
+        "DesviacionEstandar": 5210.842458945045,
+        "Mediana": 48472.0
+    },
+    "Indeterminado": {
+        "Promedio": 7.5,
+        "Minimo": 5,
+        "Maximo": 10,
+        "Total": 270,
+        "DesviacionEstandar": 1.481365736219265,
+        "Mediana": 7.0
+    }
+}

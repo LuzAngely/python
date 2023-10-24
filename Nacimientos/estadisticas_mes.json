@@ -1,0 +1,98 @@
+{
+    "Enero": {
+        "Promedio": 32335.0,
+        "Minimo": 7,
+        "Maximo": 54578,
+        "Total": 291015,
+        "DesviacionEstandar": 23312.868911588055,
+        "Mediana": 42436.0
+    },
+    "Febrero": {
+        "Promedio": 28499.333333333332,
+        "Minimo": 9,
+        "Maximo": 56611,
+        "Total": 256494,
+        "DesviacionEstandar": 20883.30457566522,
+        "Mediana": 38051.0
+    },
+    "Marzo": {
+        "Promedio": 32723.88888888889,
+        "Minimo": 7,
+        "Maximo": 56287,
+        "Total": 294515,
+        "DesviacionEstandar": 23372.05421221604,
+        "Mediana": 46682.0
+    },
+    "Abril": {
+        "Promedio": 33593.666666666664,
+        "Minimo": 5,
+        "Maximo": 54063,
+        "Total": 302343,
+        "DesviacionEstandar": 23901.626634557277,
+        "Mediana": 46448.0
+    },
+    "Mayo": {
+        "Promedio": 33315.555555555555,
+        "Minimo": 6,
+        "Maximo": 56498,
+        "Total": 299840,
+        "DesviacionEstandar": 23924.484864353744,
+        "Mediana": 43753.0
+    },
+    "Junio": {
+        "Promedio": 30206.555555555555,
+        "Minimo": 6,
+        "Maximo": 54984,
+        "Total": 271859,
+        "DesviacionEstandar": 21981.627323800873,
+        "Mediana": 38621.0
+    },
+    "Julio": {
+        "Promedio": 30296.0,
+        "Minimo": 5,
+        "Maximo": 51463,
+        "Total": 272664,
+        "DesviacionEstandar": 21697.903708269452,
+        "Mediana": 43861.0
+    },
+    "Agosto": {
+        "Promedio": 30346.666666666668,
+        "Minimo": 5,
+        "Maximo": 53324,
+        "Total": 273120,
+        "DesviacionEstandar": 21920.054911731706,
+        "Mediana": 40335.0
+    },
+    "Septiembre": {
+        "Promedio": 32883.333333333336,
+        "Minimo": 6,
+        "Maximo": 56721,
+        "Total": 295950,
+        "DesviacionEstandar": 23734.872890140177,
+        "Mediana": 45337.0
+    },
+    "Octubre": {
+        "Promedio": 33207.88888888889,
+        "Minimo": 7,
+        "Maximo": 55924,
+        "Total": 298871,
+        "DesviacionEstandar": 23825.118591027902,
+        "Mediana": 46006.0
+    },
+    "Noviembre": {
+        "Promedio": 32790.88888888889,
+        "Minimo": 8,
+        "Maximo": 55183,
+        "Total": 295118,
+        "DesviacionEstandar": 23645.36764331767,
+        "Mediana": 44813.0
+    },
+    "Diciembre": {
+        "Promedio": 31391.11111111111,
+        "Minimo": 6,
+        "Maximo": 55235,
+        "Total": 282520,
+        "DesviacionEstandar": 22663.198050507857,
+        "Mediana": 42132.0
+    }
+}

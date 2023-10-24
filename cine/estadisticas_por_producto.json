@@ -1,0 +1,82 @@
+{
+    "Gaseosas": {
+        "Promedio": 1478.5208333333333,
+        "Minimo": 1003,
+        "Maximo": 1990,
+        "Total": 70969,
+        "DesviacionEstandar": 281.42797995100904,
+        "Mediana": 1498.5
+    },
+    "Crispetas": {
+        "Promedio": 2759.5208333333335,
+        "Minimo": 2520,
+        "Maximo": 2993,
+        "Total": 132457,
+        "DesviacionEstandar": 148.4135536240055,
+        "Mediana": 2768.0
+    },
+    "HotDog": {
+        "Promedio": 307.7083333333333,
+        "Minimo": 111,
+        "Maximo": 496,
+        "Total": 14770,
+        "DesviacionEstandar": 116.04613994968648,
+        "Mediana": 286.5
+    },
+    "Gomitas": {
+        "Promedio": 320.0833333333333,
+        "Minimo": 133,
+        "Maximo": 494,
+        "Total": 15364,
+        "DesviacionEstandar": 105.22967605301378,
+        "Mediana": 325.5
+    },
+    "Chocolates": {
+        "Promedio": 314.7916666666667,
+        "Minimo": 108,
+        "Maximo": 491,
+        "Total": 15110,
+        "DesviacionEstandar": 108.37222859457839,
+        "Mediana": 309.5
+    },
+    "Helados": {
+        "Promedio": 21.645833333333332,
+        "Minimo": 10,
+        "Maximo": 30,
+        "Total": 1039,
+        "DesviacionEstandar": 6.372105824520563,
+        "Mediana": 23.0
+    },
+    "Nachos": {
+        "Promedio": 281.2708333333333,
+        "Minimo": 101,
+        "Maximo": 489,
+        "Total": 13501,
+        "DesviacionEstandar": 111.39059273253535,
+        "Mediana": 286.5
+    },
+    "Cafe": {
+        "Promedio": 267.9791666666667,
+        "Minimo": 101,
+        "Maximo": 478,
+        "Total": 12863,
+        "DesviacionEstandar": 104.65827120987089,
+        "Mediana": 271.0
+    },
+    "Dulces": {
+        "Promedio": 322.8541666666667,
+        "Minimo": 103,
+        "Maximo": 499,
+        "Total": 15497,
+        "DesviacionEstandar": 111.66057002946722,
+        "Mediana": 333.5
+    },
+    "Churros": {
+        "Promedio": 311.7291666666667,
+        "Minimo": 121,
+        "Maximo": 492,
+        "Total": 14963,
+        "DesviacionEstandar": 108.77322349413737,
+        "Mediana": 320.0
+    }
+}
